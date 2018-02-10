@@ -1,0 +1,23 @@
+C:\Users\ASUS_E402S\Documents\Gramas\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\ASUS_E402S\Documents\Gramas\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\ASUS_E402S\Documents\Gramas\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\ASUS_E402S\Documents\Gramas\Calculadora\Calculadora\Calculadora\bin\Debug\CalithaLib.dll
+C:\Users\ASUS_E402S\Documents\Gramas\Calculadora\Calculadora\Calculadora\bin\Debug\GoldParserEngine.dll
+C:\Users\ASUS_E402S\Documents\Gramas\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\ASUS_E402S\Documents\Gramas\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\ASUS_E402S\Documents\Gramas\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\ASUS_E402S\Documents\Gramas\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\ASUS_E402S\Documents\Gramas\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ASUS_E402S\Documents\Gramas\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\ASUS_E402S\Documents\Gramas\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\ALUMNOS\Documents\Visual Studio 2015\Projects\C\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\ALUMNOS\Documents\Visual Studio 2015\Projects\C\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\ALUMNOS\Documents\Visual Studio 2015\Projects\C\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\ALUMNOS\Documents\Visual Studio 2015\Projects\C\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\ALUMNOS\Documents\Visual Studio 2015\Projects\C\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\ALUMNOS\Documents\Visual Studio 2015\Projects\C\Calculadora\Calculadora\Calculadora\bin\Debug\CalithaLib.dll
+C:\Users\ALUMNOS\Documents\Visual Studio 2015\Projects\C\Calculadora\Calculadora\Calculadora\bin\Debug\GoldParserEngine.dll
+C:\Users\ALUMNOS\Documents\Visual Studio 2015\Projects\C\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNOS\Documents\Visual Studio 2015\Projects\C\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\ALUMNOS\Documents\Visual Studio 2015\Projects\C\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\ALUMNOS\Documents\Visual Studio 2015\Projects\C\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
